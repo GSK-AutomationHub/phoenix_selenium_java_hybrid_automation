@@ -1,5 +1,10 @@
 # Phoenix Automation Framework
-## _Phoenix Introduction - It is customer service management web application, which have Inwarranty and OutWarranty RMA workdlows_
+
+## Phoenix Introduction 
+
+- Phoenix is customer service management web application,which has Inwarranty and OutWarranty RMA workflows
+
+## Stack Info
 
 - Java 1.8
 - Maven
